@@ -1,0 +1,17 @@
+c:\users\kaique heinen\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\netstandard2.0\ProjetoFinal.deps.json
+c:\users\kaique heinen\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\netstandard2.0\ProjetoFinal.dll
+c:\users\kaique heinen\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\netstandard2.0\ProjetoFinal.pdb
+c:\users\kaique heinen\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\netstandard2.0\ProjetoFinal.csprojAssemblyReference.cache
+c:\users\kaique heinen\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+c:\users\kaique heinen\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+c:\users\kaique heinen\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\netstandard2.0\Pages\HomePage.xaml.g.cs
+c:\users\kaique heinen\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\netstandard2.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+c:\users\kaique heinen\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\netstandard2.0\ProjetoFinal.AssemblyInfoInputs.cache
+c:\users\kaique heinen\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\netstandard2.0\ProjetoFinal.AssemblyInfo.cs
+c:\users\kaique heinen\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\netstandard2.0\XamlC.stamp
+c:\users\kaique heinen\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\netstandard2.0\ProjetoFinal.dll
+c:\users\kaique heinen\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\netstandard2.0\ProjetoFinal.pdb
+C:\Users\KAIQUE HEINEN\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\netstandard2.0\Pages\AtracoesPage.xaml.g.cs
+C:\Users\KAIQUE HEINEN\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\netstandard2.0\Pages\ComercioPage.xaml.g.cs
+C:\Users\KAIQUE HEINEN\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\netstandard2.0\Pages\GastronomiaPage.xaml.g.cs
+C:\Users\KAIQUE HEINEN\source\repos\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\netstandard2.0\Pages\HospedagemPage.xaml.g.cs
